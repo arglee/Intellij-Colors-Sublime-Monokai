@@ -1,17 +1,39 @@
-Intellij Colors: Sublime Monokai Theme v8
+Idea Intellij Colors: Sublime Monokai Theme
 =========================================
+
+Some modifications has been made to make intellij more like sublime, so that you can feel the same way when you worked on Sublime Text Editor.
 
 Dark color theme for Intellij inspired by Sublime Text&#39;s Monokai Theme. Also works in other Jetbrains products including Webstorm, PyCharm, RubyMine, and PhPStorm.
 
-To install 
-- Download or build the jar (buildJar.sh)
+To install
+- Download settings.jar or build the jar (buildJar.sh)
 - Intellij -> File -> Import Settings -> Select Jar
 - Select Sublime Monokai as the theme in Settings -> Editor -> Colors & Fonts
 
-Special thanks to collaborators:
-- [murtaza52](https://github.com/murtaza52) for clojure support
-- [DecKen](https://github.com/DecKen) and [Sven Bendel](https://github.com/ubuntudroid) for carat identifiers
 
+Supported Settings Includes:
+
+    true	Debugger, Debugger: Java
+    true	Default project
+    true	Diff, Text Diff
+    true	Editor Colors
+    true	Editor Colors (schemes)
+    true	Find
+    true	Gradle: System Running
+    true	Inspection profiles (schemes)
+    true	Inspection profiles, Editor
+    true	Key maps
+    true	LanguageInjectionConfiguration
+    true	Look and Feel
+    true	MarkdownApplication
+    true	ParameterNameHints
+    true	Path Macros
+    true	PluginManagerConfigurable
+    true	Registry
+    true	SDK Table
+    true	Scala
+    true	Web Browsers
+    
 Supported Languages:
 
 	Java
@@ -61,4 +83,3 @@ To request support for a language, please fork, create a code sample in the code
 ![](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai/raw/master/code-samples/screenshots/screen4.png)
 
 ![](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai/raw/master/code-samples/screenshots/screen5.png)
-
